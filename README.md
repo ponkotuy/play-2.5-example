@@ -1,2 +1,1 @@
-# play-2.5-example
-[scalikejdbc-users-group:526]
+# play-2.5-example改めplay-2.6-example
